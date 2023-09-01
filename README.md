@@ -74,9 +74,13 @@ voice command; responses were formulated using text-to-speech feature
   - Converted image to gray-scale and performed morphological operations like erosion and dilation on the image to
 emphasize on character edges to better understand text
 
+<br>
+
 ## Certificates
 - “**Machine Learning Course**” by Stanford University - Coursera
 - “**Fundamentals of Digital Marketing**” by Google Digital Garage
+
+<br>
   
 ## Extracurricular Activities
 - Finalist team member of Gujarat Industrial Hackathon 2018-19 (State level hackathon)
