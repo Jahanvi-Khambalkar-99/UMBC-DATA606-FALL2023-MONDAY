@@ -1,15 +1,41 @@
-<div class="header" display="inline-block" width="100">
-  <div class="block_left" float="left">
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Div inside div center</title>
+<link rel="Stylesheet" type="text/css" href="style.css">
+</head>
+<style>
+
+.header{
+  display: inline-block;
+}
+.block_left{
+    margin-left: 0;
+ }
+
+.block_right{
+  margin-right: 0;
+}
+</style>
+
+<body>
+  <div class="header" style="display:inline-block; width: 100%; border: 1px solid red;">
+  <div class="block_left" style="float: left;">
     
-   # Jahanvi Khambalkar 
- 
-   ### dl32738@umbc.edu | 667-464-5245 | 2 Colony Hill Ct. Arbutus, MD 21227 
+   
   </div>
-  <div class="block_right" float="right">
-    <img align="right" src="https://github.com/Jahanvi-Khambalkar-99/UMBC-DATA606-FALL2023-MONDAY/assets/75730935/831e38e7-e7a6-4cc3-88d0-cc4147bc7cd5" width="100" height="100">
+  <div class="block_right" style="float: right;">
+    <img src="https://github.com/Jahanvi-Khambalkar-99/UMBC-DATA606-FALL2023-MONDAY/assets/75730935/831e38e7-e7a6-4cc3-88d0-cc4147bc7cd5" width="100" height="100">
   </div>
 </div>
+</body>
+</html>
 
+# Jahanvi Khambalkar 
+
+### dl32738@umbc.edu | 667-464-5245 | 2 Colony Hill Ct. Arbutus, MD 21227  | 
 
 <br>
 
