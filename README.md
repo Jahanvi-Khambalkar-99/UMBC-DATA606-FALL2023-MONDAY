@@ -22,7 +22,7 @@ LinkedIn : linkedin.com/in/jahanvi2299
 
 - <div><div>L.D.R.P Institute of Technology and Research Gujarat, India</div><div align="right">Aug 2017 - May 2021</div>
   
-  - Bachelor of Engineering in Computer Engineering; GPA: 3.87
+  - Bachelor of Engineering in Computer Engineering
 
 <br>
 
@@ -56,9 +56,9 @@ LinkedIn : linkedin.com/in/jahanvi2299
 ## Projects
 - <div><div>Facial Emotion Detection using Deep Learning</div><div align="right">Dec. 2022</div>
   
-  - Built a web-app with flask utilizing deep neural networks for expression classification from a facial image or video
-  - Introduced time-continuous dimensional descriptions of emotions (e.g., arousal, valence) to analyze both categorical
-and continuous changes in expression and enhance the representation of the full spectrum of emotions
+  - Built a web-app with flask utilizing deep neural networks for expression classification <br>from a facial image or video
+  - Introduced time-continuous dimensional descriptions of emotions (e.g., arousal, valence) to analyze <br>both categorical
+and continuous changes in expression and enhance the representation of the <br>full spectrum of emotions
     
 <br>
 
@@ -71,7 +71,7 @@ and continuous changes in expression and enhance the representation of the full 
 
 - <div><div>Mini Desktop Assistant (Personal Project)</div><div align="right">Dec. 2020</div>
   
-  - Programmed an assistant application in Python that performs tasks such as playing music and opening apps over
+  - Programmed an assistant application in Python that performs tasks such as playing music and opening apps <br>over
 voice command; responses were formulated using text-to-speech feature
   - Integrated functionality to send/schedule Emails and WhatsApp texts over voice command
     
@@ -80,7 +80,7 @@ voice command; responses were formulated using text-to-speech feature
 - <div><div>Optical Character Recognition Application using Machine Learning</div><div align="right">Nov. 2020</div>
   
   - Created an application to recognize and extract text within a digital image or scanned document
-  - Converted image to gray-scale and performed morphological operations like erosion and dilation on the image to
+  - Converted image to gray-scale and performed morphological operations like erosion and dilation on the image <br>to
 emphasize on character edges to better understand text
 
 <br>
