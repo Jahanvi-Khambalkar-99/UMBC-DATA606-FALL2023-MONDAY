@@ -2,8 +2,8 @@
 
 # Jahanvi Khambalkar
 
-<span><img align="right" width="100" height="100" src="https://github.com/Jahanvi-Khambalkar-99/UMBC-DATA606-FALL2023-MONDAY/assets/75730935/831e38e7-e7a6-4cc3-88d0-cc4147bc7cd5"></span></div>
-
+<span><img align="right" width="75" height="100" src="https://github.com/Jahanvi-Khambalkar-99/UMBC-DATA606-FALL2023-MONDAY/assets/75730935/9dccad35-639c-454d-8c92-e0e5acc030fc"></span>
+</div>
 
 Email : dl32738@umbc.edu
 
@@ -11,8 +11,7 @@ Mobile : +1 667-464-5245
 
 LinkedIn : linkedin.com/in/jahanvi2299
 
-
-<br><br><br>
+<br>
 
 ## Education
 - <div><div>University of Maryland, Baltimore County Baltimore, MD</div><div align="right">Aug 2022 - May 2024</div>
