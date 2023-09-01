@@ -1,7 +1,9 @@
 
-# Jahanvi Khambalkar &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![alt text](https://github.com/[Jahanvi-Khambalkar-99]/[UMBC-DATA606-FALL2023-MONDAY]/blob/[main]/github_demo.jpg?raw=true)
-### dl32738@umbc.edu | 667-464-5245 | 2 Colony Hill Ct. Arbutus, MD 21227
 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+
+# Jahanvi Khambalkar &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![alt text](https://github.com/[Jahanvi-Khambalkar-99]/[UMBC-DATA606-FALL2023-MONDAY]/blob/[main]/github_demo.jpg?raw=true)  
+### dl32738@umbc.edu | 667-464-5245 | 2 Colony Hill Ct. Arbutus, MD 21227 
 <br>
 
 ## Education
