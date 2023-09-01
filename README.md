@@ -1,9 +1,16 @@
+<div class="header" display="inline-block" width="100">
+  <div class="block_left" float="left">
+    
+   # Jahanvi Khambalkar 
+ 
+   ### dl32738@umbc.edu | 667-464-5245 | 2 Colony Hill Ct. Arbutus, MD 21227 
+  </div>
+  <div class="block_right" float="right">
+    <img align="right" src="https://github.com/Jahanvi-Khambalkar-99/UMBC-DATA606-FALL2023-MONDAY/assets/75730935/831e38e7-e7a6-4cc3-88d0-cc4147bc7cd5" width="100" height="100">
+  </div>
+</div>
 
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
-
-# Jahanvi Khambalkar &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![alt text](https://github.com/[Jahanvi-Khambalkar-99]/[UMBC-DATA606-FALL2023-MONDAY]/blob/[main]/github_demo.jpg?raw=true)  
-### dl32738@umbc.edu | 667-464-5245 | 2 Colony Hill Ct. Arbutus, MD 21227 
 <br>
 
 ## Education
