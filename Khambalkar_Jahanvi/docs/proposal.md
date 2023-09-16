@@ -5,5 +5,15 @@
 Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 
 **Author Name:** Jahanvi Khambalkar
-**GitHub:** 
-**LinkedIn:** 
+
+**GitHub:** https://github.com/Jahanvi-Khambalkar-99
+
+**LinkedIn:** https://www.linkedin.com/in/jahanvi2299/
+
+**PowerPoint presentation file:**
+
+**Link to your YouTube video:** 
+    
+## 2. Background
+
+**What is the Project about?**
